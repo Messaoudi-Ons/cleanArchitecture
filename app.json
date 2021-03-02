@@ -1,0 +1,12 @@
+{
+  "name": "cleanArchi",
+  "displayName": "cleanArchi",
+  "expo": {
+    "name": "cleanArchi",
+    "slug": "cleanArchi",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
